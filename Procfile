@@ -1,1 +1,1 @@
-web: python uploader/bot/helpers/uploader.py
+web: python uploader/bot/__main__.py
